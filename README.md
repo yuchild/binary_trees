@@ -1,2 +1,3 @@
-# binary_trees
-Python Codes of Binary Trees
+## Binary Tree Search Problems
+===
+Python Codes of Binary Trees from Daily Challenges
